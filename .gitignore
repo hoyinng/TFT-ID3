@@ -1,0 +1,6 @@
+out.dot
+#data/CSV/*.csv
+data/matchhistory/*.json
+*.png
+*.svg
+.find_set_traits.py

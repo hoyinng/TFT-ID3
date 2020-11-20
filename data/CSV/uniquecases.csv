@@ -1,0 +1,61 @@
+Player Name,Galaxy,Blaster,Rebel,ManaReaver,Demolitionist,Cybernetic,Infiltrator,StarGuardian,Paragon,Sniper,Set3_Celestial,MechPilot,Set3_Sorcerer,Astro,Chrono,Battlecast,Set3_Brawler,SpacePirate,DarkStar,Vanguard,Starship,Mercenary,Protector,Set3_Mystic,Set3_Blademaster,DamageToPlayer,Top4,Win,Placement
+BASECASE,Normal,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Dwarf Planet,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Galactic Armory,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Manatee's Delight,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Plunder Planet,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Salvage World,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Superdense,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Trade Sector,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Treasure Trove,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Binary Star,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Lilac Nebula,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Littler Little Legends,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Medium Legends,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Star Cluster,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,The Neekoverse,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Normal,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Dwarf Planet,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Galactic Armory,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Manatee's Delight,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Plunder Planet,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Salvage World,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Superdense,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Trade Sector,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Treasure Trove,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Binary Star,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Lilac Nebula,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Littler Little Legends,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Medium Legends,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Star Cluster,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,The Neekoverse,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Normal,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Dwarf Planet,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Galactic Armory,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Manatee's Delight,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Plunder Planet,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Salvage World,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Superdense,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Trade Sector,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Treasure Trove,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Binary Star,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Lilac Nebula,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Littler Little Legends,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Medium Legends,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Star Cluster,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,The Neekoverse,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Normal,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Dwarf Planet,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Galactic Armory,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Manatee's Delight,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Plunder Planet,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Salvage World,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Superdense,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Trade Sector,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Treasure Trove,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Binary Star,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Lilac Nebula,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Littler Little Legends,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Medium Legends,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,Star Cluster,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
+BASECASE,The Neekoverse,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0,FALSE,FALSE,8
