@@ -1,6 +1,6 @@
 # TFT-ID3
 ### What this program do
-Uses (SET 3) ingame data (traits, damagedone, etc) to predict a match placement with ID3
+Predict a match placement using (SET 3) ingame data (traits, damagedone, etc) with ID3
 # Running the program
 python main.py
 # Generate the tree into an image
